@@ -28,6 +28,7 @@ A solução básica seguirá as seguintes etapas:<br>
 Iremos também adicionar algumas etapas para prever os gastos utilizando:
 - Modelos mais complexos e robustos<br>
 - Otimização de modelos<br>
+- Previsão com autoML
 - Construção de uma rede neural<br>
 
 # Resultados
