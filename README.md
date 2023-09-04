@@ -29,7 +29,7 @@ Iremos também adicionar algumas etapas para prever os gastos utilizando:
 - Modelos mais complexos e robustos<br>
 - Otimização de modelos<br>
 - Construção de uma rede neural<br>
-- Previsão com autoML<br>
+- Previsão com AutoML utilizando PyCaret<br>
 
 # Resultados
 - As variáveis IMC, idade e tabagismo contribuem de maneira relevante para a performance do modelo de regressão
