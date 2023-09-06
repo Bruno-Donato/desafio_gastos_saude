@@ -2,7 +2,7 @@
 <img src="https://auxomedical.com/wp-content/uploads/2020/12/levo-health-why-is-healthcare-marketing-important-1-1200x801-1-1110x624.jpg" alt="Gastos Saúde" width="500" />
 
 # Visão Geral
-Nesse projeto vamos sugerir soluções para um desafio de previsão que tem como objetivo prever gastos em cuidados em saúde a partir de características sociodemográficas de um grupo de pacientes. O desafio original pode ser encontrado no link [FreeCodeCamp](https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/linear-regression-health-costs-calculator)
+Nesse projeto, voltado para estudo, vamos sugerir soluções para um desafio de previsão que tem como objetivo prever gastos em cuidados em saúde a partir de características sociodemográficas de um grupo de pacientes. O desafio original pode ser encontrado no link [FreeCodeCamp](https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/linear-regression-health-costs-calculator)
 
 # Problema e Solução
 Além da importancia de projetar gastos na área da saúde a capacidade de prever gastos também pode abordar outro ponto muito importante para o tema, a identificação de quais fatores podem influenciar nesse resultado, poís além de entender a influencia de cada característica nos gastos podemos também evidenciar quais características ou hábitos podem ser alterados ou trabalhados para diminuir esses gastos.
