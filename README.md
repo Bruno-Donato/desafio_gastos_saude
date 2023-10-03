@@ -26,8 +26,9 @@ A solução básica seguirá as seguintes etapas:<br>
 5.Métricas do modelo<br>
 
 Iremos também adicionar algumas etapas para prever os gastos utilizando:
+- Auto EDA<br>
 - Modelos mais complexos e robustos<br>
-- Otimização de modelos com Optuna<br>
+- Otimização de modelos<br>
 - Construção de uma rede neural utilizando Keras/TensorFlow<br>
 - Previsão com AutoML utilizando PyCaret<br>
 
