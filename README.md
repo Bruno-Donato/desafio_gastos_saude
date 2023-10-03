@@ -30,7 +30,7 @@ Iremos também adicionar algumas etapas nesse estudos utilizando:
 - [Seleção de variáveis com Boruta](https://github.com/Bruno-Donato/desafio_gastos_saude/blob/main/selecao_variaveis.ipynb)
 - [Modelos mais complexos e robustos, e construção de rede neural com Keras/TensorFlow](https://github.com/Bruno-Donato/desafio_gastos_saude/blob/main/previsao_gastos_saude.ipynb)
 - [Explicando modelos complexos com LIME e SHAP](https://github.com/Bruno-Donato/desafio_gastos_saude/blob/main/explicando_modelos_complexos.ipynb)
-- [Previsão com AutoML e otimização utilizando PyCaret](https://github.com/Bruno-Donato/desafio_gastos_saude/blob/main/pycaret_teste.ipynb)
+- [Previsão com e otimização utilizando PyCaret (AutoML)](https://github.com/Bruno-Donato/desafio_gastos_saude/blob/main/pycaret_teste.ipynb)
 
 # Resultados
 - As variáveis IMC, idade e tabagismo contribuem de maneira relevante para a performance do modelo de regressão
