@@ -25,12 +25,12 @@ A solução básica seguirá as seguintes etapas:<br>
 4.Construção do modelo<br>
 5.Métricas do modelo<br>
 
-Iremos também adicionar algumas etapas para prever os gastos utilizando:
-- Auto EDA<br>
-- Modelos mais complexos e robustos<br>
-- Otimização de modelos<br>
-- Construção de uma rede neural utilizando Keras/TensorFlow<br>
-- Previsão com AutoML utilizando PyCaret<br>
+Iremos também adicionar algumas etapas nesse estudos utilizando:
+- [Auto EDA](https://github.com/Bruno-Donato/desafio_gastos_saude/blob/main/eda_autom.ipynb)<br>
+- [Seleção de variáveis com Boruta](https://github.com/Bruno-Donato/desafio_gastos_saude/blob/main/selecao_variaveis.ipynb)<br>
+- [Modelos mais complexos e robustos, e construção de rede neural com Keras/TensorFlow](https://github.com/Bruno-Donato/desafio_gastos_saude/blob/main/previsao_gastos_saude.ipynb)<br>
+- [Explicando modelos complexos com LIME e SHAP](https://github.com/Bruno-Donato/desafio_gastos_saude/blob/main/explicando_modelos_complexos.ipynb)<br>
+- [Previsão com AutoML e otimização utilizando PyCaret](https://github.com/Bruno-Donato/desafio_gastos_saude/blob/main/pycaret_teste.ipynb)<br>
 
 # Resultados
 - As variáveis IMC, idade e tabagismo contribuem de maneira relevante para a performance do modelo de regressão
