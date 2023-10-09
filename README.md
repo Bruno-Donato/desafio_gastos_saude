@@ -40,4 +40,3 @@ Iremos também adicionar algumas etapas nesse estudos utilizando:
 
 # Conclusão
 Características como tabagismo, idade e IMC parecem ser fatores importantes para prever gastos em saúde, e utilizando um modelo de regressão linear com função polinomial de grau II podemos prever os gastos em saúde com MAE abaixo de $3500 estipulado pelo desafio. Podemos prever com menor MAE utilizando modelos mais complexos e robustos, porém a princípio devemos priorizar modelos mais simples, pois além de serem menos custosos computacionalmente eles também tem uma característica muito importante para a tomada de decisão que é a explicabilidade, o que torna os insights gerados pelos dados muito mais fáceis de serem compreendidos e serem transformados em ações.
-
